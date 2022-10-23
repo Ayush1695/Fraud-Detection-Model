@@ -1,9 +1,5 @@
 Please find below the instruction to run the code - This is the entire process I followed. Or you can just open my notebook from the path and can start running it.
 
-I have just given a very detailed ipynb files with all the requirements asked in the DS assessment.
-Apologies for not modularising the code because of lack of time along with academic workload.
-But I tried to structure the code to the best extent. Please follow below instructions to run the code.
-
 1) I downloaded the data using terminal. The code to download the data is as belows:
     a Open terminal or git bash
     b Type "cd" to directory
@@ -15,7 +11,7 @@ But I tried to structure the code to the best extent. Please follow below instru
     e. Commit all files (-a) and add a message (-m)
     >  git commit -a -m "Download transaction data"
     f. clone the repo with the clone url
-    >  git clone https://github.com/CapitalOneRecruiting/DS.git
+    >  git clone --Cant share the data path because of privacy--
 
 2) Once you have clones the repo the data will be saved in a DS folder. 
    I could have programmity copy pasted it into more intuitive folder but in the interest of time 
